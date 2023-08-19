@@ -1,9 +1,12 @@
 # Side_Mount_electronics_Enclosure_V2.4_350
 Custom side mount electronics enclosure for 3D printer.
+![20230816_202151](https://github.com/JoeCorelli/Side_Mount_electronics_Enclosure_V2.4_350/assets/134115637/607aee87-5edf-47e8-a8c6-b82c9e3803d5)
 
 *** Hardware quantities will vary depending on your printer diemnsions. In this build I used what I had available to make it work. ***
 
 FRAME
+![20230808_205218](https://github.com/JoeCorelli/Side_Mount_electronics_Enclosure_V2.4_350/assets/134115637/94a8d024-cd00-4cf0-a9b4-dc8eb0c9581c)
+
 
   Dimensions are determined by your Printer variant and planned component configuration. 
   This build was completed on a Voron 2.4 350mm Version frame.
@@ -34,6 +37,8 @@ https://www.amazon.com/400x1280-Capacitive-Toughened-Raspberry-Raspbian/dp/B09JM
   ** Note after intallation of the enclosure, the front door hinges will no longer fit properly. You will need to use an alternate method to mount the front door on the side with the electronics enclosure. Alternatively you can move existing double door setup to the enlosure and use the right ot left panel as a single door.  
 
 EDGE LIT PANEL
+![20230816_202119](https://github.com/JoeCorelli/Side_Mount_electronics_Enclosure_V2.4_350/assets/134115637/9851a39b-f894-4dbb-83eb-814f6859d142)
+
 
    Materials:
 	 
