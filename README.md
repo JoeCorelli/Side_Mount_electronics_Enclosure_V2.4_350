@@ -28,6 +28,9 @@ FRAME
 	
   -2x 80mm fans (I used Noctua NF-R8 PWM fans) https://www.amazon.com/gp/product/B00KF7MVI2/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1
 
+  - Display (Waveshare 7.9inch) *Optional
+https://www.amazon.com/400x1280-Capacitive-Toughened-Raspberry-Raspbian/dp/B09JMXXQ8V/ref=sr_1_1?crid=6WXBRF9FQ2WD&keywords=waveshare%2B7.9&qid=1692485723&sprefix=waveshare%2B7.9%2Caps%2C90&sr=8-1&ufe=app_do%3Aamzn1.fos.18ed3cb5-28d5-4975-8bc7-93deae8f9840&th=1
+
   ** Note after intallation of the enclosure, the front door hinges will no longer fit properly. You will need to use an alternate method to mount the front door on the side with the electronics enclosure. Alternatively you can move existing double door setup to the enlosure and use the right ot left panel as a single door.  
 
 EDGE LIT PANEL
